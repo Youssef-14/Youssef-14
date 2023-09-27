@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **youssefmaatoug99@gmail.com**
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MAATOUGYoussef&bg_color=bec8ef&color=1476f5&line=66c297&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/youssef-maatoug-b275431a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef maatoug" height="30" width="40" /></a>
