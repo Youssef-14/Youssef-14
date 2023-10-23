@@ -4,14 +4,32 @@
 
 # 💫 About Me:
 - 📫 How to reach me **youssefmaatoug99@gmail.com**
+- I'm a passionate web developer with a love for creating innovative and user-friendly web applications. I'm always eager to learn and stay up-to-date with the latest web technologies. Here's a bit more about me:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Youssef-14&bg_color=bec8ef&color=1476f5&line=66c297&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🌐 I'm a web developer with expertise in front-end and back-end technologies.
+- 🚀 I'm experienced in building modern web applications using HTML, CSS, JavaScript, TypeScript and Java and frameworks like Angular and Spring Boot.
+- 🔧 I'm proficient with tools and technologies like Git, Webpack, and database systems (e.g., SQL and NoSQL).
+- 📚 I'm a continuous learner and always exploring new technologies and best practices in web development.
+- 💬 Let's connect and collaborate on exciting web projects. Feel free to reach out for potential collaborations or just to chat about web development.
+
+- ## 🛠️ Tech Stack
+
+- Front-end: HTML, CSS, JavaScript, React
+- Back-end: Node.js, Express.js
+- Database: MongoDB, PostgreSQL
+- Tools: Git, Visual Studio Code, Webpack
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Email: [Your Email Address](mailto:youremail@example.com)
 <a href="https://www.linkedin.com/in/youssef-maatoug-b275431a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef maatoug" height="30" width="40" /></a>
 <a href="https://discord.gg/youssef16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="youssef16" height="30" width="40" /></a>
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Youssef-14&bg_color=bec8ef&color=1476f5&line=66c297&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 # 🏆 GitHub Trophies:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssef-14" alt="youssef-14" /></a> </p>
