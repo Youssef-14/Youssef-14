@@ -41,7 +41,4 @@
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
-
-[![](https://visitcount.itsvg.in/api?id=MAATOUGYoussef&icon=2&color=1)](https://visitcount.itsvg.in)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
